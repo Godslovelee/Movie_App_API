@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
         child: Column(
           children: [
             ElevatedButton(onPressed: () => {}, child: Text(
-              "Har-potter"
+              "Hard-potter"
             )),
 
           ],
